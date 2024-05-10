@@ -1,9 +1,7 @@
 # php-parse-vcards-file
 Php parse vcards.vcf file and gen html table
 ****************************
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
-
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Иллюстрацhttps://raw.githubusercontent.com/serzhbsv/php-parse-vcards-file/main/screen/Screenshot.png)
 
 {username} — ваш ник на ГитХабе;
 {repository} — репозиторий где хранятся картинки;
